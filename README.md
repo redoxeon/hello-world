@@ -1,24 +1,15 @@
-# hello-world
+# NYC Reports 0/0 on unit tests
 
 ## Project setup
+
 ```
 npm install
+vue add unit-mocha (only if it's not already there)
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Try testing
 
-### Compiles and minifies for production
 ```
-npm run build
+npm run test:unit
+npm run cover:unit
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
