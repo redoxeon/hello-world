@@ -10,3 +10,12 @@ Clone then run `npm install`
 npm run test:unit
 npm run cover:unit
 ```
+## Results look pretty scarce
+
+```
+----------|---------|----------|---------|---------|-------------------
+File      | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+----------|---------|----------|---------|---------|-------------------
+All files |       0 |        0 |       0 |       0 |                   
+----------|---------|----------|---------|---------|-------------------
+```
