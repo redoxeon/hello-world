@@ -1,0 +1,1 @@
+{"parent":null,"pid":70517,"argv":["/usr/bin/node","/usr/bin/npm","run","test:unit"],"execArgv":[],"cwd":"/home/redoxeon/Documents/Opiniion/hello-world","time":1638912385245,"ppid":70505,"coverageFilename":"/home/redoxeon/Documents/Opiniion/hello-world/.nyc_output/1dad1dd0-567d-4dcc-9a67-1be4f4abfbdc.json","externalId":"","uuid":"1dad1dd0-567d-4dcc-9a67-1be4f4abfbdc","files":[]}

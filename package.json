@@ -6,8 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
-    "cover:unit": "nyc --reporter=lcov --reporter=text npm run test:unit",
-    "lint": "vue-cli-service lint"
+    "cover:unit": "nyc --reporter=lcov --reporter=text npm run test:unit"
   },
   "dependencies": {
     "vue": "^2.5.13"
@@ -17,7 +16,6 @@
     "@vue/cli-service": "^4.5.12",
     "@vue/test-utils": "^1.1.3",
     "chai": "^4.1.2",
-    "istanbul-instrumenter-loader": "^3.0.1",
     "mocha": "^6.2.3",
     "nyc": "^15.1.0",
     "vue-template-compiler": "^2.5.13",

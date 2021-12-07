@@ -2,11 +2,7 @@
 
 ## Project setup
 
-Vue CLI is needed for this replication
-
-```
-npm install
-```
+Clone then run `npm install`
 
 ## Try testing
 
