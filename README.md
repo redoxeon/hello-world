@@ -2,9 +2,10 @@
 
 ## Project setup
 
+Vue CLI is needed for this replication
+
 ```
 npm install
-vue add unit-mocha (only if it's not already there)
 ```
 
 ## Try testing
